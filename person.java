@@ -6,7 +6,7 @@ public class user{
 =======
 public class test{
 private int age;
-
+private String address;
 private String name; // edit by 
 
 
